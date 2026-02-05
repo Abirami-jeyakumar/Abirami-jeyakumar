@@ -1,5 +1,5 @@
 <h1 align="center">✨ Hi 👋 I'm Abirami ✨</h1>
-<h3 align="center">💻 Passionate Web Developer | MERN Learner | India 🇮🇳</h3>
+<h3 align="center">💻 Passionate Web Developer | MERN Learner | India</h3>
 
 <p align="center">
 🚀 Turning ideas into real web applications  
