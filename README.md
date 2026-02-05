@@ -39,16 +39,6 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,php,laravel,nodejs,mysql,mongodb,java,git,github,vscode" />
 </p>
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" />
-</p>
 
 
 
