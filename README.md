@@ -13,7 +13,7 @@
 - 🌱 Learning **MERN Stack**
 - 💡 Interested in **Frontend + Backend**
 - 🎓 CS Student
-- ⚡ Fun fact: I debug more than I sleep 😆
+
 
 ---
 
